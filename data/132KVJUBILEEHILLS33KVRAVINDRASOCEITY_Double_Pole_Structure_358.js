@@ -1,0 +1,1 @@
+var json_132KVJUBILEEHILLS33KVRAVINDRASOCEITY_Double_Pole_Structure_358 = {"type":"FeatureCollection","name":"132KVJUBILEEHILLS33KVRAVINDRASOCEITY_Double_Pole_Structure_358","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

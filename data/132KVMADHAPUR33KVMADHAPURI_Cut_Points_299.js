@@ -1,0 +1,1 @@
+var json_132KVMADHAPUR33KVMADHAPURI_Cut_Points_299 = {"type":"FeatureCollection","name":"132KVMADHAPUR33KVMADHAPURI_Cut_Points_299","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"Cut"},"geometry":{"type":"Point","coordinates":[78.374645,17.452886]}}]}

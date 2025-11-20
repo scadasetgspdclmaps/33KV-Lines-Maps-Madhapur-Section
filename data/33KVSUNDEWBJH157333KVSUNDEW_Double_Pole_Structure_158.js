@@ -1,0 +1,1 @@
+var json_33KVSUNDEWBJH157333KVSUNDEW_Double_Pole_Structure_158 = {"type":"FeatureCollection","name":"33KVSUNDEWBJH157333KVSUNDEW_Double_Pole_Structure_158","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

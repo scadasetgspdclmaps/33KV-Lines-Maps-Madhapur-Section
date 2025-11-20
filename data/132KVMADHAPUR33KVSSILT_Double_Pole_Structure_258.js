@@ -1,0 +1,1 @@
+var json_132KVMADHAPUR33KVSSILT_Double_Pole_Structure_258 = {"type":"FeatureCollection","name":"132KVMADHAPUR33KVSSILT_Double_Pole_Structure_258","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

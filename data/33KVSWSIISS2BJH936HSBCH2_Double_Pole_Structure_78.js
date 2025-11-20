@@ -1,0 +1,1 @@
+var json_33KVSWSIISS2BJH936HSBCH2_Double_Pole_Structure_78 = {"type":"FeatureCollection","name":"33KVSWSIISS2BJH936HSBCH2_Double_Pole_Structure_78","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

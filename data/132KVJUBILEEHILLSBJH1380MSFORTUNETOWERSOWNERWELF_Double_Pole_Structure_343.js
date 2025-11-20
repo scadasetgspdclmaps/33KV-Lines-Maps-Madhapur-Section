@@ -1,0 +1,1 @@
+var json_132KVJUBILEEHILLSBJH1380MSFORTUNETOWERSOWNERWELF_Double_Pole_Structure_343 = {"type":"FeatureCollection","name":"132KVJUBILEEHILLSBJH1380MSFORTUNETOWERSOWNERWELF_Double_Pole_Structure_343","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

@@ -1,0 +1,1 @@
+var json_33KVTRIONPROPERTYBJH129733KVTRIONPROPERTY_Double_Pole_Structure_63 = {"type":"FeatureCollection","name":"33KVTRIONPROPERTYBJH129733KVTRIONPROPERTY_Double_Pole_Structure_63","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

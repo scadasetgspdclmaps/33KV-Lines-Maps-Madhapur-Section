@@ -1,0 +1,1 @@
+var json_132KVJUBILEEHILLS33KVMADHAPUR4_AB_Switch_362 = {"type":"FeatureCollection","name":"132KVJUBILEEHILLS33KVMADHAPUR4_AB_Switch_362","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"AB"},"geometry":{"type":"Point","coordinates":[78.403946,17.430368]}}]}

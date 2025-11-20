@@ -1,0 +1,1 @@
+var json_132KVMADHAPURYousufgudatoRoadNo22_AB_Switch_227 = {"type":"FeatureCollection","name":"132KVMADHAPURYousufgudatoRoadNo22_AB_Switch_227","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"AB"},"geometry":{"type":"Point","coordinates":[78.405606,17.433032]}}]}

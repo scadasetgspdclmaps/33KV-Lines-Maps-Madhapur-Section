@@ -1,0 +1,1 @@
+var json_33KVSWS1SS1BJH763CyberGateway_Double_Pole_Structure_143 = {"type":"FeatureCollection","name":"33KVSWS1SS1BJH763CyberGateway_Double_Pole_Structure_143","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

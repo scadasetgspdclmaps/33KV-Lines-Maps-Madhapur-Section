@@ -1,0 +1,1 @@
+var json_33KVINTIMEPROPERTIESBJH180633KVINTIMEPROPERTIES_Double_Pole_Structure_213 = {"type":"FeatureCollection","name":"33KVINTIMEPROPERTIESBJH180633KVINTIMEPROPERTIES_Double_Pole_Structure_213","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

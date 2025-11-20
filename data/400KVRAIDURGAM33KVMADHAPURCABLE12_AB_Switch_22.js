@@ -1,0 +1,1 @@
+var json_400KVRAIDURGAM33KVMADHAPURCABLE12_AB_Switch_22 = {"type":"FeatureCollection","name":"400KVRAIDURGAM33KVMADHAPURCABLE12_AB_Switch_22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"AB"},"geometry":{"type":"Point","coordinates":[78.376373,17.435263]}}]}

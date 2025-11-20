@@ -1,0 +1,1 @@
+var json_400KVRAIDURGAM33KVSUSTAINPROPERTIES_Double_Pole_Structure_18 = {"type":"FeatureCollection","name":"400KVRAIDURGAM33KVSUSTAINPROPERTIES_Double_Pole_Structure_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

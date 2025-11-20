@@ -1,0 +1,1 @@
+var json_33KVMADHAPUR4FEEDERBJH993_Double_Pole_Structure_28 = {"type":"FeatureCollection","name":"33KVMADHAPUR4FEEDERBJH993_Double_Pole_Structure_28","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"DP"},"geometry":{"type":"Point","coordinates":[78.376461,17.435041]}}]}

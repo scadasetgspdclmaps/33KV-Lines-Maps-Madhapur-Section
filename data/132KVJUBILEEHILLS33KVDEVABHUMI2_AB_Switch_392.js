@@ -1,0 +1,1 @@
+var json_132KVJUBILEEHILLS33KVDEVABHUMI2_AB_Switch_392 = {"type":"FeatureCollection","name":"132KVJUBILEEHILLS33KVDEVABHUMI2_AB_Switch_392","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"AB"},"geometry":{"type":"Point","coordinates":[78.40387,17.429918]}}]}

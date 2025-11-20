@@ -1,0 +1,1 @@
+var json_400KVRAIDURGAM33KVMADHAPURCABLE12_Double_Pole_Structure_23 = {"type":"FeatureCollection","name":"400KVRAIDURGAM33KVMADHAPURCABLE12_Double_Pole_Structure_23","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

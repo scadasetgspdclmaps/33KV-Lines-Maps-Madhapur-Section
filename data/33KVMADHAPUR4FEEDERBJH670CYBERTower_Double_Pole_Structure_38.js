@@ -1,0 +1,1 @@
+var json_33KVMADHAPUR4FEEDERBJH670CYBERTower_Double_Pole_Structure_38 = {"type":"FeatureCollection","name":"33KVMADHAPUR4FEEDERBJH670CYBERTower_Double_Pole_Structure_38","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

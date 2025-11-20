@@ -1,0 +1,1 @@
+var json_132KVMADHAPUR33KVSSIILT_AB_Switch_262 = {"type":"FeatureCollection","name":"132KVMADHAPUR33KVSSIILT_AB_Switch_262","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"AB"},"geometry":{"type":"Point","coordinates":[78.374641,17.45283]}}]}

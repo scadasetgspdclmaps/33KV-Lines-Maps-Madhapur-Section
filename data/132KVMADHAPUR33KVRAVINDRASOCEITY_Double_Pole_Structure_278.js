@@ -1,0 +1,1 @@
+var json_132KVMADHAPUR33KVRAVINDRASOCEITY_Double_Pole_Structure_278 = {"type":"FeatureCollection","name":"132KVMADHAPUR33KVRAVINDRASOCEITY_Double_Pole_Structure_278","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

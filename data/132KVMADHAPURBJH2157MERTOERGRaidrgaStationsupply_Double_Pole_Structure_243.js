@@ -1,0 +1,1 @@
+var json_132KVMADHAPURBJH2157MERTOERGRaidrgaStationsupply_Double_Pole_Structure_243 = {"type":"FeatureCollection","name":"132KVMADHAPURBJH2157MERTOERGRaidrgaStationsupply_Double_Pole_Structure_243","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

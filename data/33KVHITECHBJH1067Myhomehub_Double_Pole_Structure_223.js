@@ -1,0 +1,1 @@
+var json_33KVHITECHBJH1067Myhomehub_Double_Pole_Structure_223 = {"type":"FeatureCollection","name":"33KVHITECHBJH1067Myhomehub_Double_Pole_Structure_223","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

@@ -1,0 +1,1 @@
+var json_132KVMADHAPURBJH2354MSWORLDWIDEREALCONPVTLTDTOWER2_Double_Pole_Structure_238 = {"type":"FeatureCollection","name":"132KVMADHAPURBJH2354MSWORLDWIDEREALCONPVTLTDTOWER2_Double_Pole_Structure_238","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

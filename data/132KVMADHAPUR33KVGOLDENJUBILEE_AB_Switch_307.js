@@ -1,0 +1,1 @@
+var json_132KVMADHAPUR33KVGOLDENJUBILEE_AB_Switch_307 = {"type":"FeatureCollection","name":"132KVMADHAPUR33KVGOLDENJUBILEE_AB_Switch_307","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"AB"},"geometry":{"type":"Point","coordinates":[78.374403,17.453109]}}]}

@@ -1,0 +1,1 @@
+var json_33KVRELIANCEBJH145333KVRELIANCE_Double_Pole_Structure_178 = {"type":"FeatureCollection","name":"33KVRELIANCEBJH145333KVRELIANCE_Double_Pole_Structure_178","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
